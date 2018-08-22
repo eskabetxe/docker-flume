@@ -1,4 +1,4 @@
-FROM eskabetxe/docker-java
+FROM eskabetxe/java
 MAINTAINER eskabetxe
 
 ENV FLUME_VERSION=1.8.0
